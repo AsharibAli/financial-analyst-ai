@@ -1,4 +1,4 @@
-# Financial Assitant AI.<br>
+# Financial Analyst | Assitant AI.<br>
 
 ## Build using openai assistant and financialmodelingprep API Keys. <br>
 
